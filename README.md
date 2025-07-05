@@ -17,11 +17,11 @@ This project is a Natural Language Processing (NLP) application that automatical
 ## 📸 GUI Preview
 
 <p align="center">
-  <img src="images/gui_home.png" alt="Streamlit Home Page" width="600"/>
+  <img src="images/gui_python.png" alt="Prediction Page python" width="600"/>
 </p>
 
 <p align="center">
-  <img src="images/gui_prediction.png" alt="Prediction Page" width="600"/>
+  <img src="images/gui_android.png" alt="Prediction Page android" width="600"/>
 </p>
 
 ---
